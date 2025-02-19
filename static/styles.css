@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#user-input {
+  margin: 20px auto;
+  width: 50%;
+}
+
+#gameCanvas {
+  background-color: #fafafa;
+  display: block;
+  margin: 0 auto;
+}
